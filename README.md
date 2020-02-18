@@ -1,3 +1,2 @@
 # OS1-Projekat
-University project
-C++
+University project in C++
