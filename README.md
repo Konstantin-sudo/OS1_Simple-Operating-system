@@ -7,4 +7,4 @@ Simple preemptive operating system kernel for 8086 processor
       - change of context (time sharing(asynchronous), interrupts, explicit(synchronous))
       - concept of semaphores
       - concept of events in a relation to interrupts (binary semaphore)
-  - User of this app can create multiple threads and use implemented semaphores and events for their synchronization
+  - User of this app can create multiple threads and use implemented semaphores and events for their synchronization and expect time sharing on cpu usage
